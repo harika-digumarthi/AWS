@@ -1,6 +1,6 @@
 # AWS
 Bunch of AWS tutorials on various topics
 
-1. Jumpbox
-2. Database
-3. Python in Jupyter
+1. Accessing internet through Jumpbox and NAT Instance
+2. R Studio on AWS
+3. Jupyter Notebook in virtual environment
